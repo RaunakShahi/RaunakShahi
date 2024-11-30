@@ -1,16 +1,32 @@
-## Hi there 👋
+# 🌟 Welcome to My GitHub Profile! 👋
 
-<!--
-**RaunakShahi/RaunakShahi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! I'm a **third-year BTech CSE student** with a passion for building innovative projects and solving challenging problems. Whether it's **AI**, **blockchain**, or **front-end wizardry**, I love exploring new tech and bringing ideas to life. 🚀
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 **Tech I'm Exploring**
+
+- 🌱 Learning **WebAssembly** for high-performance web apps.
+- 💻 Experimenting with **React Three Fiber** for 3D web content.
+- 🔍 Deep diving into **AI/ML** with a focus on real-world applications.
+
+---
+
+## 📊 **GitHub Stats**
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RaunakShahi&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaunakShahi&layout=compact&theme=radical)
+
+---
+
+## 🌟 **Let's Connect**
+
+- 📝 **[Portfolio](#)** (Coming Soon)
+- 💼 [LinkedIn](https://linkedin.com/in/RaunakShahi)
+- 🧩 [LeetCode](https://leetcode.com/u/RaunakShahi/)
+- 🗨️ **Discord**: raunakshahi
+- 📧 Email: **raunakshahi2004@gmail.com**
+
+---
+
+### 🌟 *"Striving for innovation and excellence—one project at a time!"*
