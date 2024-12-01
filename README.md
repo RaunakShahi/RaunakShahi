@@ -1,6 +1,6 @@
-# 🌟 Welcome to My GitHub Profile! 👋
+# 🌟 Greetings! I am Raunak Shahi 👋
 
-Hi there! I'm a **third-year BTech CSE student** with a passion for building innovative projects and solving challenging problems. Whether it's **AI**, **blockchain**, or **front-end wizardry**, I love exploring new tech and bringing ideas to life. 🚀
+I'm a **third-year BTech CSE student** with a passion for building innovative projects and solving challenging problems. Whether it's **AI**, **blockchain**, or **front-end wizardry**, I love exploring new tech and bringing ideas to life. 🚀
 
 ---
 
